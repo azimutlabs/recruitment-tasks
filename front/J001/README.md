@@ -12,7 +12,7 @@ to do, but it's going to be ***a big plus*** for you.
 + ***Can i use project generators like `create-react-app`*** - `Yes`
 + ***Can i use Typescript, Flow and etc?*** - `Yes`
 + ***Can i use state managers like Mobx, Redux and etc?*** - `Yes`
-+ ***Can i use css frameworks like `bootstrap`?*** - `No`, but `normolize.css` is allowed.
++ ***Can i use css frameworks like `bootstrap`?*** - `No`, but `normalize.css` is allowed.
 + ***Can i use other static site generators like `next.js`, `nuxt.js` and etc*** - `No`
 
 # API
