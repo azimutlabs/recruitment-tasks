@@ -1,7 +1,6 @@
 # `J001`: TODO app
-The task is divided into parts each harder than the previous.
-Optional parts are not required to do, but it's going to be ***a big plus***
-for you.
+The task is divided into different parts. Optional parts are not required
+to do, but it's going to be ***a big plus*** for you.
 
 ### Requirements
 + ***`React`/`Vue`***
@@ -25,7 +24,9 @@ for you.
 App with the only page that fetches and renders `TODO` list from `API` result.
 
 ### Part `2`
+Design requirements shown in the [figma project](https://www.figma.com/file/ZmX8H1qMc8k5fivTHty6dH/Azimutlabs-Front-Developer-Tasks?node-id=0%3A1)
 
+### Part `3`
 ###### Optional
 
 Paginate `TODO` list using the `json placeholders` api.
