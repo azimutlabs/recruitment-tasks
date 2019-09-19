@@ -2,7 +2,7 @@
     Azimut Labs
 </h1>
 <p align="center">
-    Test projects for recruits
+    Test projects for new developers
 </p>
 
 # Submissions
