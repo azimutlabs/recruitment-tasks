@@ -22,14 +22,13 @@ to do, but it's going to be ***a big plus*** for you.
 ---
 
 ### Part `1`
-App with the only page that fetches and renders `TODO` list from `API` result.
+Create App with the only page that fetches and renders `TODO` list from `API` result.
 
 ### Part `2`
 Design requirements shown in the [figma project](https://www.figma.com/file/ZmX8H1qMc8k5fivTHty6dH/Azimutlabs-Front-Developer-Tasks?node-id=0%3A1)
 
 ### Part `3`
 ###### Optional
-
 Paginate `TODO` list using the `json placeholders` api.
 [Request example `/todo?_page=1&_limit=10`](https://jsonplaceholder.typicode.com/todos?_page=1&_limit=10)
 
