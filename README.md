@@ -1,3 +1,11 @@
+<p align="center">
+    <img
+        height="200"
+        src="https://raw.githubusercontent.com/azimutlabs/logos/master/logo_without_words.png"
+        alt="azimutlabs recruitment tasks logo"
+    >
+</p>
+
 <h1 align="center">
     Azimut Labs
 </h1>
