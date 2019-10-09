@@ -15,3 +15,6 @@ Examples: `front-M012-olehan`, `back-J004-a-arshabekov`.
 ***Your pull request is going to be rejected if:***
 + Submodule contains dependency directories like `node_modules`, `vendor`.
 + IDEa or Code editor configuration files presented in the project.
+
+# License
+[MIT](LICENSE)
