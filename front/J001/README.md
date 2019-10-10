@@ -29,7 +29,7 @@ Design requirements shown in the [figma project](https://www.figma.com/file/ZmX8
 
 ### Part `3`
 ###### Optional
-Paginate `TODO` list using the `json placeholders` api.
+Paginate `TODO` list using `react-router` and `json placeholders` api.
 [Request example `/todo?_page=1&_limit=10`](https://jsonplaceholder.typicode.com/todos?_page=1&_limit=10)
 
 ***TIP***: Use path parameter `/:page` and check `match.params` object in your properties.
