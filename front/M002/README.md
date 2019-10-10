@@ -24,7 +24,7 @@ to do, but it's going to be ***a big plus*** for you.
 ---
 
 ### Part `1`
-Create task manager app that displays 3 main boards: `To Do` and `Done`.
+Create a task manager app that displays 3 main boards: `To Do` and `Done`.
 Every todo is draggable and further action is decided by on which board it dropped.
 
 + Filter `To Do` board using `API` with filter `completed === false`.
@@ -45,7 +45,7 @@ Add a new `Pinned` board.
 Filter `Pinned` board using `localeStorage`. It contains only locally saved
 todos that user dragged into it.
   - Drop on the board saves the todo in `localeStorage`, letting the original copy
-    stay in the same place it were.
+    stay in the same place it was.
   - Click on pinned todo scrolls the appropriate board to the original todos position.
 
 ### Part `4`
