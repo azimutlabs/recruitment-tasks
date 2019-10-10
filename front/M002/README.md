@@ -35,7 +35,7 @@ Every todo is draggable and further action is decided by on which board it dropp
   - Drop on the board sets the `completed` field to `true`.
 
 ### Part `2`
-Design requirements shown in the [figma project](https://www.figma.com/file/ZmX8H1qMc8k5fivTHty6dH/Azimutlabs-Front-Developer-Tasks?node-id=104%3A0)
+Design requirements shown in the [figma project](https://www.figma.com/file/ZmX8H1qMc8k5fivTHty6dH/Azimutlabs-Front-Developer-Tasks?node-id=56%3A11)
 
 ### Part `3`
 ###### Optional
