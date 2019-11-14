@@ -25,10 +25,13 @@ to do, but it's going to be ***a big plus*** for you.
 ---
 
 ### Part `1`
-Create App that searches `posts` from `api` in `realtime` with `delay`.
+Create App that searches `posts` from `api` in `realtime` with request `debounce`.
+
+Request: `https://jsonplaceholder.typicode.com/posts?q=${text}`
+
 All requests should be sent using the store.
 + Max search results count is `5`.
-+ Delay should be around `200`-`500` ms.
++ Debounce should be around `200`-`500` ms.
 + Min query length for search is `3` unless the user presses `enter`.
 
 ### Part `2`
