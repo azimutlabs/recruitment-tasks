@@ -1,3 +1,6 @@
 [submodule "submissions/front-J001-dsklff"]
 	path = submissions/front-J001-dsklff
 	url = https://github.com/dsklff/front-J001-dsklff.git
+[submodule "submissions/front-M001-ulzhan"]
+	path = submissions/front-M001-ulzhan
+	url = https://github.com/Ulzhan/front-M001-ulzhan
