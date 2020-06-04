@@ -4,3 +4,6 @@
 [submodule "submissions/front-M001-ulzhan"]
 	path = submissions/front-M001-ulzhan
 	url = https://github.com/Ulzhan/front-M001-ulzhan
+[submodule "submissions/front-J001-soundsnick"]
+	path = submissions/front-J001-soundsnick
+	url = https://github.com/soundsnick/azimut-todo-recruitment-task
